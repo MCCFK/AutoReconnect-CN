@@ -1,0 +1,93 @@
+{
+  "configuration.autoReconnecto.title": "Настройка автоподключения",
+  
+  "configuration.autoReconnecto.autoReconnectEnabled": "Автоподключение",
+  "configuration.autoReconnecto.autoReconnectEnabled.description": "Включить или отключить функцию автоподключения",
+  
+  "configuration.autoReconnecto.reconnectDelay": "Задержка подключения",
+  "configuration.autoReconnecto.reconnectDelay.description": "Сколько секунд ждать перед переподключением после отключения (0-10 секунд)",
+  
+  "configuration.autoReconnecto.commandDelay": "Задержка команды",
+  "configuration.autoReconnecto.commandDelay.description": "Задержка в секундах перед отправкой команд после входа на сервер",
+  
+  "configuration.autoReconnecto.command1": "Команда 1",
+  "configuration.autoReconnecto.command1.description": "Первая команда для автоматической отправки после чата на сервере",
+  
+  "configuration.autoReconnecto.command2": "Команда 2",
+  "configuration.autoReconnecto.command2.description": "Вторая команда для автоматической отправки после чата на сервере",
+  
+  "configuration.autoReconnecto.command3": "Команда 3",
+  "configuration.autoReconnecto.command3.description": "Третья команда для автоматической отправки после чата на сервере",
+  
+  "configuration.autoReconnecto.command4": "Команда 4",
+  "configuration.autoReconnecto.command4.description": "Четвертая команда для автоматической отправки после чата на сервере",
+  
+  "configuration.autoReconnecto.command5": "Команда 5",
+  "configuration.autoReconnecto.command5.description": "Пятая команда для автоматической отправки после чата на сервере",
+  
+  "configuration.autoReconnecto.command6": "Команда 6",
+  "configuration.autoReconnecto.command6.description": "Шестая команда для автоматической отправки после чата на сервере",
+  
+  "autoreconnect.message.server_saved": "§e[AutoReconnecto] §a✓ Информация о сервере сохранена：§b%s",
+  "autoreconnect.message.reconnect_restored": "Игрок присоединился к серверу, функция автоподключения восстановлена",
+  "autoreconnect.message.reconnect_started": "§e[AutoReconnecto] §aЗапущен механизм циклического переподключения (попытка каждые 10 секунд)",
+  "autoreconnect.message.waiting_reconnect": "§e[AutoReconnecto] §7Ожидание §b%d §7секунд перед попыткой переподключения...",
+  "autoreconnect.message.input_detected": "§e[AutoReconnecto] §c✗ Обнаружено действие игрока во время ожидания переподключения, переподключение отменено",
+  "autoreconnect.message.no_server_data": "§e[AutoReconnecto] §c✗ Нет сохраненной информации о сервере, невозможно выполнить переподключение",
+  "autoreconnect.message.join_first": "§e[AutoReconnecto] §cСначала присоединитесь к серверу вручную",
+  "autoreconnect.message.reconnecting": "§e[AutoReconnecto] §7Выполняется переподключение с использованием сохраненной информации о сервере...",
+  "autoreconnect.message.using_saved_server": "§e[AutoReconnecto] §a✓ Использование сохраненного сервера：§b%s §7(%s)",
+  "autoreconnect.message.reconnect_requested": "§e[AutoReconnecto] §a✓ Запрос на переподключение отправлен",
+  "autoreconnect.message.reconnect_failed": "§e[AutoReconnecto] §c✗ Ошибка переподключения：%s",
+  "autoreconnect.message.reconnect_success": "§e[AutoReconnecto] §a✓ Переподключение успешно, сервер присоединен",
+  "autoreconnect.message.retry_later": "§e[AutoReconnecto] §c✗ Переподключение не удалось, повторная попытка через 10 секунд...",
+  "autoreconnect.message.thread_interrupted": "§e[AutoReconnecto] §7Поток переподключения прерван",
+  "autoreconnect.message.reconnect_error": "§e[AutoReconnecto] §cОшибка процесса переподключения：%s",
+  "autoreconnect.message.reconnect_stopped": "§e[AutoReconnecto] §7Циклическое переподключение остановлено",
+  "autoreconnect.message.reconnect_task_stopped": "§e[AutoReconnecto] §7Задача переподключения остановлена",
+  "autoreconnect.message.input_pause": "§e[AutoReconnecto] §c✗ Обнаружено действие ввода на главном экране, автоматическое переподключение приостановлено",
+  "autoreconnect.message.disabled_or_paused": "Автоподключение отключено или приостановлено, переподключение пропущено",
+  "autoreconnect.message.pause_screen_disconnect": "Обнаружено отключение на экране паузы, возможно, игрок вышел вручную, переподключение не запускается",
+  "autoreconnect.message.player_quit": "Обнаружен выход игрока вручную, автоподключение не запускается",
+  "autoreconnect.message.not_in_server": "Не на сервере, переподключение пропущено",
+  "autoreconnect.message.server_disconnect": "Обнаружено отключение сервера, подготовка к автоматическому переподключению...",
+  "autoreconnect.message.config_get": "§e[AutoReconnecto] §7Настройка §b%d §f(%s)§7 текущее значение：§a%s",
+  "autoreconnect.message.config_hint": "§7Подсказка：§f%s",
+  "autoreconnect.message.invalid_config_id": "§e[AutoReconnecto] §cНедействительный ID настройки：§b%d",
+  "autoreconnect.message.config_reset": "§e[AutoReconnecto] §7Настройка §b%d §7сброшена до значения по умолчанию",
+  "autoreconnect.message.config_updated": "§e[AutoReconnecto] §7Настройка §b%d §7обновлена на：§a%s",
+  "autoreconnect.message.config_update_failed": "§e[AutoReconnecto] §cОшибка обновления настройки：недействительный ID или значение настройки",
+  "autoreconnect.message.config_update_error": "§e[AutoReconnecto] §cОшибка обновления настройки：%s",
+  "autoreconnect.message.status_running": "§e[AutoReconnecto] §7Статус автоподключения：§aРаботает",
+  "autoreconnect.message.status_paused": "§e[AutoReconnecto] §7Статус автоподключения：§cПриостановлено",
+  "autoreconnect.message.status_enabled": "§e[AutoReconnecto] §7Переключатель функции：§aВключено",
+  "autoreconnect.message.status_disabled": "§e[AutoReconnecto] §7Переключатель функции：§cОтключено",
+  "autoreconnect.message.reconnect_delay_info": "§e[AutoReconnecto] §7Задержка переподключения：§b%d§7 сек",
+  "autoreconnect.message.all_config_header": "§e===== AutoReconnecto все настройки =====",
+  "autoreconnect.message.all_config_footer": "§e===================================",
+  "autoreconnect.message.config_line": "§7[%d] §b%s§7: §a%s",
+  "autoreconnect.message.debug_kick": "Debugkick",
+  
+  "autoreconnect.log.player_viewed_all_configs": "Игрок просмотрел всю информацию о настройках",
+  "autoreconnect.log.player_viewed_config": "Игрок просмотрел значение настройки {}：{}",
+  "autoreconnect.log.config_reset": "Настройка {} сброшена до значения по умолчанию",
+  "autoreconnect.log.config_updated": "Настройка {} обновлена：{}",
+  "autoreconnect.log.config_update_failed": "Ошибка обновления настройки {}：{}",
+  "autoreconnect.log.config_update_error": "Ошибка обновления настройки",
+  
+  "autoreconnect.configuration.title": "Настройка автоподключения",
+  "autoreconnect.configuration.section.autoreconnect.common.toml": "Общие настройки",
+  "autoreconnect.configuration.section.autoreconnect.common.toml.title": "Настройки общей конфигурации",
+  
+  "configuration.autoReconnecto.autoReconnectEnabled.tooltip": "Включить или отключить функцию автоподключения",
+  "configuration.autoReconnecto.reconnectDelay.tooltip": "Сколько секунд ждать перед переподключением после отключения (0-10 секунд)",
+  "configuration.autoReconnecto.commandDelay.tooltip": "Задержка в секундах перед отправкой команд после входа на сервер",
+  "configuration.autoReconnecto.command1.tooltip": "Первая команда для автоматической отправки после чата на сервере",
+  "configuration.autoReconnecto.command2.tooltip": "Вторая команда для автоматической отправки после чата на сервере",
+  "configuration.autoReconnecto.command3.tooltip": "Третья команда для автоматической отправки после чата на сервере",
+  "configuration.autoReconnecto.command4.tooltip": "Четвертая команда для автоматической отправки после чата на сервере",
+  "configuration.autoReconnecto.command5.tooltip": "Пятая команда для автоматической отправки после чата на сервере",
+  "configuration.autoReconnecto.command6.tooltip": "Шестая команда для автоматической отправки после чата на сервере",
+  
+  "configuration.autoReconnecto.title": "Настройка автоподключения"
+}
