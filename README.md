@@ -60,3 +60,19 @@ Supports 23 languages: 简体中文，繁体中文，文言，日本語，한국
 ## 许可证 License
 
 MIT License 
+
+## 下载 Download
+
+## NeoForge
+| 版本 Version | Minecraft | 下载 Download |
+|-------------|-----------|---------------|
+| 26.3.18-1.3.5-1.21.10 | 1.21.10 | [GitHub Releases](https://github.com/MCCFK/AutoReconnect-CN/releases/tag/1.21.10NeoForge) |
+
+## Forge
+| 版本 Version | Minecraft | 下载 Download         |
+|-------------|-----------|---------------------|
+
+## Fabric
+| 版本 Version | Minecraft | 下载 Download         |
+|-------------|-----------|---------------------|
+
