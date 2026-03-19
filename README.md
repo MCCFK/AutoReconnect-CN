@@ -31,7 +31,7 @@ Minecraft NeoForge Auto Reconnect Mod
 
 ```bash
 /#config                  # 查看配置 View config
-/#config set <id> <value> # 修改配置 Set config
+/#config <id> <value> # 修改配置 Set config
 /#config info             # 查看模组信息 View mod info
 ```
 
@@ -47,9 +47,9 @@ Minecraft NeoForge Auto Reconnect Mod
 ### 示例 Examples
 
 ```bash
-/#config set 1 true      # 启用自动重连 Enable auto reconnect
-/#config set 2 5         # 设置延迟 5 秒 Set delay to 5 seconds
-/#config set 4 /login    # 设置登录指令 Set login command
+/#config 1 true      # 启用自动重连 Enable auto reconnect
+/#config 2 5         # 设置延迟 5 秒 Set delay to 5 seconds
+/#config 4 /login    # 设置登录指令 Set login command
 ```
 
 ## 多语言 Multi-language
