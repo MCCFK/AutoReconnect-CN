@@ -76,4 +76,3 @@ MIT License
 ## Fabric
 | 版本 Version | Minecraft | 下载 Download         |
 |-------------|-----------|---------------------|
-
