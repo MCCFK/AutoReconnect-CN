@@ -4,7 +4,9 @@ Minecraft NeoForge 自动重连模组
 Minecraft NeoForge Auto Reconnect Mod
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.10-brightgreen)](https://www.minecraft.net/)
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-brightgreen)](https://www.minecraft.net/)
 [![NeoForge](https://img.shields.io/badge/NeoForge-21.10.64-orange)](https://neoforged.net/)
+[![NeoForge](https://img.shields.io/badge/NeoForge-21.1.220-orange)](https://neoforged.net/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Languages](https://img.shields.io/badge/languages-23-yellow)](src/main/resources/assets/autoreconnect/lang)
 
@@ -30,9 +32,9 @@ Minecraft NeoForge Auto Reconnect Mod
 ### 指令 Commands
 
 ```bash
-/#config                  # 查看配置 View config
-/#config <id> <value> # 修改配置 Set config
-/#config info             # 查看模组信息 View mod info
+/#autoreconnect info      # 查看模组状态
+/#config <id> <value>     # 修改配置 Set config
+/#config info             # 查看配置信息 View mod info
 ```
 
 ### 配置项 Config Options
@@ -64,9 +66,10 @@ MIT License
 ## 下载 Download
 
 ## NeoForge
-| 版本 Version | Minecraft | 下载 Download |
-|-------------|-----------|---------------|
+| 版本 Version           | Minecraft | 下载 Download |
+|----------------------|-----------|---------------|
 | 26.3.18-1.3.5-1.21.10 | 1.21.10 | [GitHub Releases](https://github.com/MCCFK/AutoReconnect-CN/releases/tag/1.21.10NeoForge) |
+| 26.3.21-1.0.0-1.21.1 | 1.21.1 | [GitHub Releases](https://github.com/MCCFK/AutoReconnect-CN/releases/tag/1.21.1NeoForge) |
 
 ## Forge
 | 版本 Version | Minecraft | 下载 Download         |
