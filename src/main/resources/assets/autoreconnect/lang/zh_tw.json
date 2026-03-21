@@ -1,0 +1,93 @@
+{
+  "configuration.autoReconnecto.title": "自動重連設定",
+  
+  "configuration.autoReconnecto.autoReconnectEnabled": "自動重連開關",
+  "configuration.autoReconnecto.autoReconnectEnabled.description": "啟用或停用自動重連功能",
+  
+  "configuration.autoReconnecto.reconnectDelay": "重連延遲",
+  "configuration.autoReconnecto.reconnectDelay.description": "斷線後等待多少秒開始重連（0-10 秒）",
+  
+  "configuration.autoReconnecto.commandDelay": "指令延遲",
+  "configuration.autoReconnecto.commandDelay.description": "加入伺服器後延遲傳送指令的時間（秒）",
+  
+  "configuration.autoReconnecto.command1": "指令 1",
+  "configuration.autoReconnecto.command1.description": "在伺服器聊天後自動傳送的第一條指令",
+  
+  "configuration.autoReconnecto.command2": "指令 2",
+  "configuration.autoReconnecto.command2.description": "在伺服器聊天後自動傳送的第二條指令",
+  
+  "configuration.autoReconnecto.command3": "指令 3",
+  "configuration.autoReconnecto.command3.description": "在伺服器聊天後自動傳送的第三條指令",
+  
+  "configuration.autoReconnecto.command4": "指令 4",
+  "configuration.autoReconnecto.command4.description": "在伺服器聊天後自動傳送的第四條指令",
+  
+  "configuration.autoReconnecto.command5": "指令 5",
+  "configuration.autoReconnecto.command5.description": "在伺服器聊天後自動傳送的第五條指令",
+  
+  "configuration.autoReconnecto.command6": "指令 6",
+  "configuration.autoReconnecto.command6.description": "在伺服器聊天後自動傳送的第六條指令",
+  
+  "autoreconnect.message.server_saved": "§e[AutoReconnecto] §a✓ 已儲存伺服器資訊：§b%s",
+  "autoreconnect.message.reconnect_restored": "玩家已加入伺服器，恢復自動重連功能",
+  "autoreconnect.message.reconnect_started": "§e[AutoReconnecto] §a已啟動循環重連機制（每 10 秒嘗試一次）",
+  "autoreconnect.message.waiting_reconnect": "§e[AutoReconnecto] §7等待 §b%d §7秒後嘗試重連...",
+  "autoreconnect.message.input_detected": "§e[AutoReconnecto] §c✗ 重連等待期間檢測到玩家輸入操作，已取消重連",
+  "autoreconnect.message.no_server_data": "§e[AutoReconnecto] §c✗ 沒有儲存的伺服器資訊，無法重連",
+  "autoreconnect.message.join_first": "§e[AutoReconnecto] §c請先手動加入一次伺服器",
+  "autoreconnect.message.reconnecting": "§e[AutoReconnecto] §7正在使用儲存的伺服器資訊重連...",
+  "autoreconnect.message.using_saved_server": "§e[AutoReconnecto] §a✓ 使用儲存的伺服器：§b%s §7(%s)",
+  "autoreconnect.message.reconnect_requested": "§e[AutoReconnecto] §a✓ 已發起重連請求",
+  "autoreconnect.message.reconnect_failed": "§e[AutoReconnecto] §c✗ 重連失敗：%s",
+  "autoreconnect.message.reconnect_success": "§e[AutoReconnecto] §a✓ 重連成功，已加入伺服器",
+  "autoreconnect.message.retry_later": "§e[AutoReconnecto] §c✗ 重連未成功，將在 10 秒後再次嘗試...",
+  "autoreconnect.message.thread_interrupted": "§e[AutoReconnecto] §7重連執行緒被中斷",
+  "autoreconnect.message.reconnect_error": "§e[AutoReconnecto] §c重連過程出錯：%s",
+  "autoreconnect.message.reconnect_stopped": "§e[AutoReconnecto] §7循環重連已停止",
+  "autoreconnect.message.reconnect_task_stopped": "§e[AutoReconnecto] §7已停止重連任務",
+  "autoreconnect.message.input_pause": "§e[AutoReconnecto] §c✗ 檢測到主介面輸入操作，已暫停自動重連",
+  "autoreconnect.message.disabled_or_paused": "自動重連已停用或已暫停，跳過重連",
+  "autoreconnect.message.pause_screen_disconnect": "檢測到在暫停螢幕中斷開，可能是玩家主動退出，不觸發重連",
+  "autoreconnect.message.player_quit": "檢測到玩家主動退出，不觸發自動重連",
+  "autoreconnect.message.not_in_server": "未在伺服器內，跳過重連",
+  "autoreconnect.message.server_disconnect": "檢測到伺服器斷開，準備自動重連...",
+  "autoreconnect.message.config_get": "§e[AutoReconnecto] §7設定 §b%d §f(%s)§7 目前值：§a%s",
+  "autoreconnect.message.config_hint": "§7提示：§f%s",
+  "autoreconnect.message.invalid_config_id": "§e[AutoReconnecto] §c無效的設定 ID: §b%d",
+  "autoreconnect.message.config_reset": "§e[AutoReconnecto] §7設定 §b%d §7已重設為預設值",
+  "autoreconnect.message.config_updated": "§e[AutoReconnecto] §7設定 §b%d §7已更新為：§a%s",
+  "autoreconnect.message.config_update_failed": "§e[AutoReconnecto] §c設定更新失敗：無效的設定 ID 或值",
+  "autoreconnect.message.config_update_error": "§e[AutoReconnecto] §c設定更新出錯：%s",
+  "autoreconnect.message.status_running": "§e[AutoReconnecto] §7自動重連狀態：§a執行中",
+  "autoreconnect.message.status_paused": "§e[AutoReconnecto] §7自動重連狀態：§c暫停",
+  "autoreconnect.message.status_enabled": "§e[AutoReconnecto] §7功能開關：§a開啟",
+  "autoreconnect.message.status_disabled": "§e[AutoReconnecto] §7功能開關：§c關閉",
+  "autoreconnect.message.reconnect_delay_info": "§e[AutoReconnecto] §7重連延遲：§b%d§7 秒",
+  "autoreconnect.message.all_config_header": "§e===== AutoReconnecto 全部設定 =====",
+  "autoreconnect.message.all_config_footer": "§e===================================",
+  "autoreconnect.message.config_line": "§7[%d] §b%s§7: §a%s",
+  "autoreconnect.message.debug_kick": "Debugkick",
+  
+  "autoreconnect.log.player_viewed_all_configs": "玩家檢視了所有設定資訊",
+  "autoreconnect.log.player_viewed_config": "玩家檢視了設定 {} 的值：{}",
+  "autoreconnect.log.config_reset": "設定 {} 已重設為預設值",
+  "autoreconnect.log.config_updated": "設定 {} 已更新為：{}",
+  "autoreconnect.log.config_update_failed": "設定 {} 更新失敗：{}",
+  "autoreconnect.log.config_update_error": "設定更新出錯",
+  
+  "autoreconnect.configuration.title": "自動重連配置",
+  "autoreconnect.configuration.section.autoreconnect.common.toml": "通用配置",
+  "autoreconnect.configuration.section.autoreconnect.common.toml.title": "通用配置設定",
+  
+  "configuration.autoReconnecto.autoReconnectEnabled.tooltip": "啟用或停用自動重連功能",
+  "configuration.autoReconnecto.reconnectDelay.tooltip": "斷線後等待多少秒開始重連（0-10 秒）",
+  "configuration.autoReconnecto.commandDelay.tooltip": "加入伺服器後延遲傳送指令的時間（秒）",
+  "configuration.autoReconnecto.command1.tooltip": "在伺服器聊天後自動傳送的第一條指令",
+  "configuration.autoReconnecto.command2.tooltip": "在伺服器聊天後自動傳送的第二條指令",
+  "configuration.autoReconnecto.command3.tooltip": "在伺服器聊天後自動傳送的第三條指令",
+  "configuration.autoReconnecto.command4.tooltip": "在伺服器聊天後自動傳送的第四條指令",
+  "configuration.autoReconnecto.command5.tooltip": "在伺服器聊天後自動傳送的第五條指令",
+  "configuration.autoReconnecto.command6.tooltip": "在伺服器聊天後自動傳送的第六條指令",
+  
+  "configuration.autoReconnecto.title": "自動重連設定"
+}
