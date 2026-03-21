@@ -3,10 +3,11 @@
 Minecraft NeoForge 自动重连模组  
 Minecraft NeoForge Auto Reconnect Mod
 
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-brightgreen)](https://www.minecraft.net/)
-[![NeoForge](https://img.shields.io/badge/NeoForge-21.1.220-orange)](https://neoforged.net/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Languages](https://img.shields.io/badge/languages-23-yellow)](src/main/resources/assets/autoreconnect/lang)
+
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-brightgreen)](https://www.minecraft.net/)
+[![NeoForge](https://img.shields.io/badge/NeoForge-21.1.220-orange)](https://neoforged.net/)
 
 ---
 
