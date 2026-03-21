@@ -3,12 +3,16 @@
 Minecraft NeoForge 自动重连模组  
 Minecraft NeoForge Auto Reconnect Mod
 
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.10-brightgreen)](https://www.minecraft.net/)
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-brightgreen)](https://www.minecraft.net/)
-[![NeoForge](https://img.shields.io/badge/NeoForge-21.10.64-orange)](https://neoforged.net/)
-[![NeoForge](https://img.shields.io/badge/NeoForge-21.1.220-orange)](https://neoforged.net/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Languages](https://img.shields.io/badge/languages-23-yellow)](src/main/resources/assets/autoreconnect/lang)
+
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.10-brightgreen)](https://www.minecraft.net/)
+[![NeoForge](https://img.shields.io/badge/NeoForge-21.10.64-orange)](https://neoforged.net/)\
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.3-brightgreen)](https://www.minecraft.net/)
+[![NeoForge](https://img.shields.io/badge/NeoForge-21.3.95-orange)](https://neoforged.net/)\
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-brightgreen)](https://www.minecraft.net/)
+[![NeoForge](https://img.shields.io/badge/NeoForge-21.1.220-orange)](https://neoforged.net/)
+
 
 ---
 
@@ -69,6 +73,7 @@ MIT License
 | 版本 Version           | Minecraft | 下载 Download |
 |----------------------|-----------|---------------|
 | 26.3.18-1.3.5-1.21.10 | 1.21.10 | [GitHub Releases](https://github.com/MCCFK/AutoReconnect-CN/releases/tag/1.21.10NeoForge) |
+| 26.3.21-1.0.0-1.21.1 | 1.21.3 | [GitHub Releases](https://github.com/MCCFK/AutoReconnect-CN/releases/tag/1.21.3NeoForge) |
 | 26.3.21-1.0.0-1.21.1 | 1.21.1 | [GitHub Releases](https://github.com/MCCFK/AutoReconnect-CN/releases/tag/1.21.1NeoForge) |
 
 ## Forge
