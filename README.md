@@ -68,5 +68,5 @@ MIT License
 ## NeoForge
 | 版本 Version           | Minecraft | 下载 Download |
 |----------------------|-----------|---------------|
-| 26.3.18-1.3.5-1.21.10 | 1.21.10 | [GitHub Releases](https://github.com/MCCFK/AutoReconnect-CN/releases/tag/1.21.10NeoForge) |
+| 26.3.25-1.3.6-1.21.10 | 1.21.10 | [GitHub Releases](https://github.com/MCCFK/AutoReconnect-CN/releases/tag/1.21.10NeoForge) |
 
