@@ -6,7 +6,6 @@ Minecraft NeoForge Auto Reconnect Mod
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Languages](https://img.shields.io/badge/languages-23-yellow)](src/main/resources/assets/autoreconnect/lang)
 
-
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.3-brightgreen)](https://www.minecraft.net/)
 [![NeoForge](https://img.shields.io/badge/NeoForge-21.3.95-orange)](https://neoforged.net/)
 
@@ -67,5 +66,5 @@ MIT License
 
 ## NeoForge
 | 版本 Version           | Minecraft | 下载 Download                                                                              |
-|----------------------|-----------|------------------------------------------------------------------------------------------|
-| 26.3.21-1.0.0-1.21.1 | 1.21.3 | [GitHub Releases](https://github.com/MCCFK/AutoReconnect-CN/releases/tag/1.21.3NeoForge) |
+|----------------------|--------|------------------------------------------------------------------------------------------|
+| 26.3.26-1.0.1-1.21.1 | 1.21.3 | [GitHub Releases](https://github.com/MCCFK/AutoReconnect-CN/releases/tag/1.21.3NeoForge) |
