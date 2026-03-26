@@ -7,7 +7,7 @@ Minecraft NeoForge Auto Reconnect Mod
 [![Languages](https://img.shields.io/badge/languages-23-yellow)](src/main/resources/assets/autoreconnect/lang)
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-brightgreen)](https://www.minecraft.net/)
-[![NeoForge](https://img.shields.io/badge/NeoForge-21.11.40beta-orange)](https://neoforged.net/)\
+[![NeoForge](https://img.shields.io/badge/NeoForge-21.11.40beta-orange)](https://neoforged.net/)
 
 ---
 
