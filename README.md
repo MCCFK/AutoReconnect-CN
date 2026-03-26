@@ -6,6 +6,8 @@ Minecraft NeoForge Auto Reconnect Mod
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Languages](https://img.shields.io/badge/languages-23-yellow)](src/main/resources/assets/autoreconnect/lang)
 
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-brightgreen)](https://www.minecraft.net/)
+[![NeoForge](https://img.shields.io/badge/NeoForge-21.11.40beta-orange)](https://neoforged.net/)\
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.10-brightgreen)](https://www.minecraft.net/)
 [![NeoForge](https://img.shields.io/badge/NeoForge-21.10.64-orange)](https://neoforged.net/)\
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.4-brightgreen)](https://www.minecraft.net/)
@@ -74,6 +76,7 @@ MIT License
 ## NeoForge
 | 版本 Version           | Minecraft | 下载 Download |
 |----------------------|-----------|---------------|
+| 26.3.24-1.0.0-1.21.11 | 1.21.11 | [GitHub Releases](https://github.com/MCCFK/AutoReconnect-CN/releases/tag/1.21.11NeoForge) |
 | 26.3.24-1.3.6-1.21.10 | 1.21.10 | [GitHub Releases](https://github.com/MCCFK/AutoReconnect-CN/releases/tag/1.21.10NeoForge) |
 | 26.3.26-1.0.0-1.21.4 | 1.21.4 | [GitHub Releases](https://github.com/MCCFK/AutoReconnect-CN/releases/tag/1.21.4NeoForge) |
 | 26.3.26-1.0.1-1.21.3 | 1.21.3 | [GitHub Releases](https://github.com/MCCFK/AutoReconnect-CN/releases/tag/1.21.3NeoForge) |
