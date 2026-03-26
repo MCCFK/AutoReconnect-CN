@@ -73,7 +73,7 @@ MIT License
 | 版本 Version           | Minecraft | 下载 Download |
 |----------------------|-----------|---------------|
 | 26.3.24-1.3.6-1.21.10 | 1.21.10 | [GitHub Releases](https://github.com/MCCFK/AutoReconnect-CN/releases/tag/1.21.10NeoForge) |
-| 26.3.21-1.0.0-1.21.3 | 1.21.3 | [GitHub Releases](https://github.com/MCCFK/AutoReconnect-CN/releases/tag/1.21.3NeoForge) |
+| 26.3.26-1.0.1-1.21.3 | 1.21.3 | [GitHub Releases](https://github.com/MCCFK/AutoReconnect-CN/releases/tag/1.21.3NeoForge) |
 | 26.3.25-1.0.1-1.21.1 | 1.21.1 | [GitHub Releases](https://github.com/MCCFK/AutoReconnect-CN/releases/tag/1.21.1NeoForge) |
 
 ## Forge
