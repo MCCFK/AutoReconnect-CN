@@ -8,6 +8,8 @@ Minecraft NeoForge Auto Reconnect Mod
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.10-brightgreen)](https://www.minecraft.net/)
 [![NeoForge](https://img.shields.io/badge/NeoForge-21.10.64-orange)](https://neoforged.net/)\
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.4-brightgreen)](https://www.minecraft.net/)
+[![NeoForge](https://img.shields.io/badge/NeoForge-21.4.157-orange)](https://neoforged.net/)\
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.3-brightgreen)](https://www.minecraft.net/)
 [![NeoForge](https://img.shields.io/badge/NeoForge-21.3.95-orange)](https://neoforged.net/)\
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-brightgreen)](https://www.minecraft.net/)
